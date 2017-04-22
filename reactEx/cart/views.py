@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.template.loader import render_to_string
 from django.http import HttpResponse, JsonResponse
 from rest_framework.renderers import JSONRenderer
-from django.db.models import F
+from django.db.models import F, Sum
 from django.contrib.auth.decorators import login_required
 from django.views.decorators.csrf import csrf_exempt
 
@@ -33,6 +33,12 @@ def latest(request, cart=None):
 		)
 
 	cart_filled = list(cart_raw)
+	if(cart_filled):
+		cart_filled.append({
+			'id':-1, 
+			'item__name':'TOTAL',
+			'qu_price': cart_raw.aggregate(Sum('qu_price'))['qu_price__sum']
+		})
 
 	return JsonResponse(cart_filled, safe=False)
 

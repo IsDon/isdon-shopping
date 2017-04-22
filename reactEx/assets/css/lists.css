@@ -78,6 +78,9 @@ body {
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
 }
+#CartContainer .list > ul > li:last-child{
+  background-color: #CFF;
+}
 .appcontainer .list h3 > span {
   width:25%;
   display:inline-block;
@@ -98,8 +101,26 @@ body {
   width:50%;
   padding-right: 1em; /*Allow room for remove button*/
 }
+#ShoppingAppContainer .list h3 {
+  pointer-events: none;
+}
 #ShoppingAppContainer .list h3 > span {
   cursor:pointer;
+  pointer-events: auto;
+/*  text-decoration: inherit;*/
+  color:inherit;
+}
+#ShoppingAppContainer .list h3:hover {
+/*  text-decoration: underline;*/
+  color:blue;
+}
+#ShoppingAppContainer .list h3 > span:first-child + span:hover + span,
+#ShoppingAppContainer .list h3 > span:first-child:hover + span + span,
+#ShoppingAppContainer .list h3 > span:first-child + span:hover + span + span,
+#ShoppingAppContainer .list h3 > span:first-child:hover + span + span + span,
+#ShoppingAppContainer .list h3 > span:first-child + span:not(:hover) {
+/*  text-decoration: none;*/
+  color:black;
 }
 .appcontainer .list > ul > li > button {
   position:absolute;

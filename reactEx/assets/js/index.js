@@ -87,7 +87,7 @@ class ItemRow extends React.Component {
 			}
 		})
 		let remove_btn;
-		if(this.props.mapped['remove']) {
+		if(this.props.mapped['remove'] && item.id>=0) {
 			remove_btn = (
 				<ButtonRemoveItem 
 					id={item.id} 
