@@ -1,0 +1,1659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boot",
+				"bootstrap-datetimepicker"
+			],
+			[
+				"par",
+				"parentId"
+			],
+			[
+				"parent",
+				"parent_key"
+			],
+			[
+				"pare",
+				"parent_key"
+			],
+			[
+				"db",
+				"db_index"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"Add",
+				"AddJob"
+			],
+			[
+				"seri",
+				"serializedJobs"
+			],
+			[
+				"WorkS",
+				"WorkShiftSerializer"
+			],
+			[
+				"Dj",
+				"DjangoCSRFToken"
+			],
+			[
+				"comp",
+				"Component"
+			],
+			[
+				"data",
+				"datatype"
+			],
+			[
+				"add",
+				"addJob"
+			],
+			[
+				"Pos",
+				"PositionSerializer"
+			],
+			[
+				"Work",
+				"WorkShiftSerializer"
+			],
+			[
+				"lying",
+				"lying_start"
+			],
+			[
+				"devic",
+				"device_emailed"
+			],
+			[
+				"em",
+				"email_settings"
+			],
+			[
+				"email",
+				"email_notify"
+			],
+			[
+				"ema",
+				"email_notify"
+			],
+			[
+				"ue",
+				"User"
+			],
+			[
+				"max_",
+				"max_rows_per_op"
+			],
+			[
+				"hom",
+				"home_template_cached"
+			],
+			[
+				"aft",
+				"after_response"
+			],
+			[
+				"activ",
+				"activity_run_single"
+			],
+			[
+				"act",
+				"activity_run_single"
+			],
+			[
+				"prev",
+				"prev_ts_array"
+			],
+			[
+				"ALLOW",
+				"ALLOW_ASYNC_DISABLING_SILK"
+			],
+			[
+				"match",
+				"matched_device"
+			],
+			[
+				"badge",
+				"badge_num"
+			],
+			[
+				"ch",
+				"chartnum"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"secon",
+				"secondlast_entry"
+			],
+			[
+				"last",
+				"last_entry"
+			],
+			[
+				"ba",
+				"badge_num"
+			],
+			[
+				"new",
+				"new_d"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"red",
+				"redraw"
+			],
+			[
+				"char",
+				"chartnum_it"
+			],
+			[
+				"chartnum",
+				"chartnum_it"
+			],
+			[
+				"cha",
+				"chartnum_it"
+			],
+			[
+				"tran",
+				"transmitter_serial__serial"
+			],
+			[
+				"htm",
+				"html_form"
+			],
+			[
+				"refr",
+				"refresh_dom_ajax"
+			],
+			[
+				"ref",
+				"add-receiver-form"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"receiver",
+				"receiver_serial"
+			],
+			[
+				"Devi",
+				"DeviceReceiver"
+			],
+			[
+				"Device",
+				"DeviceTransmitter"
+			],
+			[
+				"Dev",
+				"DeviceTransmitter"
+			],
+			[
+				"receiv",
+				"receiver"
+			],
+			[
+				"activit",
+				"activity_monitor"
+			],
+			[
+				"Su",
+				"Summary_Admin"
+			],
+			[
+				"rece",
+				"receiver"
+			],
+			[
+				"nw",
+				"newDisplayDevice"
+			],
+			[
+				"save",
+				"saved_device"
+			],
+			[
+				"ho",
+				"horse_name"
+			],
+			[
+				"rec",
+				"rec_found"
+			],
+			[
+				"Valid",
+				"ValidRegisterSerial"
+			],
+			[
+				"receive",
+				"receiver_serial"
+			],
+			[
+				"sign",
+				"signup_form"
+			],
+			[
+				"add-",
+				"add-transmitter-form"
+			],
+			[
+				"BACKGROU",
+				"background-color"
+			],
+			[
+				"chart",
+				"chartnum1"
+			],
+			[
+				"ser",
+				"series"
+			],
+			[
+				"hi",
+				"highcharts"
+			],
+			[
+				"series_",
+				"series_deviceData"
+			],
+			[
+				"Err",
+				"error"
+			],
+			[
+				"map",
+				"mapUnixTimestamps"
+			],
+			[
+				"mo",
+				"most_recent_List"
+			],
+			[
+				"ra",
+				"randint"
+			],
+			[
+				"las",
+				"last_value"
+			],
+			[
+				"series",
+				"series_newdata"
+			],
+			[
+				"fr",
+				"fromtimestamp"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"tim",
+				"timezone"
+			],
+			[
+				"time",
+				"timeprev"
+			],
+			[
+				"for",
+				"force_reload"
+			],
+			[
+				"load",
+				"_loader"
+			],
+			[
+				"XML",
+				"XMLLoader"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"summ",
+				"summary_List"
+			],
+			[
+				"Organ",
+				"Organisation_Name"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bore",
+				"border-box"
+			],
+			[
+				"Tween",
+				"TweenMax"
+			],
+			[
+				"num",
+				"numSlides"
+			],
+			[
+				"destr",
+				"destroyMealsSlider"
+			],
+			[
+				"afters",
+				"afterShowContactUs"
+			],
+			[
+				"pay",
+				"paypal"
+			],
+			[
+				"si",
+				"signup1_submitted"
+			],
+			[
+				"showSi",
+				"showSignup1"
+			],
+			[
+				"page",
+				"page-break-inside"
+			],
+			[
+				"sele",
+				"selectedRowMeals"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"dir",
+				"dirtyforms"
+			],
+			[
+				"pos",
+				"poshy"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fac",
+				"face_slider_pages"
+			],
+			[
+				"run",
+				"runCleanupBool"
+			],
+			[
+				"after",
+				"afterrender"
+			],
+			[
+				"face",
+				"face_slider"
+			],
+			[
+				"faces_",
+				"faces_slideshow"
+			],
+			[
+				"app",
+				"appendSlide"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"ob",
+				"observable"
+			],
+			[
+				"tr",
+				"triggerSubPageCheck"
+			],
+			[
+				"Tw",
+				"TweenMax"
+			],
+			[
+				"main",
+				"mainscroll"
+			],
+			[
+				"perpe",
+				"perspective"
+			],
+			[
+				"change",
+				"changePageWaiting"
+			],
+			[
+				"curP",
+				"curPageSubs"
+			],
+			[
+				"conta",
+				"contact_form"
+			],
+			[
+				"valid",
+				"validate_forms"
+			],
+			[
+				"arra",
+				"arrayFilter"
+			],
+			[
+				"myCur",
+				"myCurMealOptionsCount"
+			],
+			[
+				"idne",
+				"indexOf"
+			],
+			[
+				"delayed",
+				"delayedCall"
+			],
+			[
+				"h_",
+				"h_urbanmenu"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"where_s",
+				"where_sb_autocomplete"
+			],
+			[
+				"meal_v",
+				"meal_val2"
+			],
+			[
+				"markers",
+				"markers_pagedRows"
+			],
+			[
+				"lat",
+				"latlng1"
+			],
+			[
+				"clickM",
+				"clickMap"
+			],
+			[
+				"click",
+				"clickMarkers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/reactEx/views.py",
+			"settings":
+			{
+				"buffer_size": 308,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/accounts/models.py",
+			"settings":
+			{
+				"buffer_size": 1020,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/jobs/models.py",
+			"settings":
+			{
+				"buffer_size": 1549,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/jobs/views.py",
+			"settings":
+			{
+				"buffer_size": 2056,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/jobs/forms.py",
+			"settings":
+			{
+				"buffer_size": 24,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/jobs/urls.py",
+			"settings":
+			{
+				"buffer_size": 1265,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/reactEx/urls.py",
+			"settings":
+			{
+				"buffer_size": 1435,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/jobs/admin.py",
+			"settings":
+			{
+				"buffer_size": 194,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/jobs/tests.py",
+			"settings":
+			{
+				"buffer_size": 2081,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/reactEx/settings.py",
+			"settings":
+			{
+				"buffer_size": 5870,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/assets/js/index.js",
+			"settings":
+			{
+				"buffer_size": 6025,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 2878,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/jobs/serializers.py",
+			"settings":
+			{
+				"buffer_size": 775,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/assets/css/lists.css",
+			"settings":
+			{
+				"buffer_size": 2002,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "body {"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/reactEx/templates/reactEx/front.html",
+			"settings":
+			{
+				"buffer_size": 1219,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/development/isdon-react-ex/reactEx/reactEx/templates/reactEx/dayview.html",
+			"settings":
+			{
+				"buffer_size": 50,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/development/isdon-shopping/reactEx/package.json",
+		"/E/development/isdon-react-ex/reactEx/assets/css/base.css",
+		"/E/development/isdon-react-ex/reactEx/logs/debug.log",
+		"/E/development/isdon-react-ex/reactEx/package.json",
+		"/E/development/isdon-react-ex/.gitignore",
+		"/E/development/isdon-react-ex/reactEx/webpack.config.js",
+		"/E/development/isdon-react-ex/reactEx/jobs/serializers.py",
+		"/E/development/isdon-react-ex/env/Lib/site-packages/djangojs/urls.py",
+		"/E/development/isdon-react-ex/env/Lib/site-packages/djangojs/templates/djangojs/django_js_init.html",
+		"/E/development/isdon-react-ex/reactEx/reactEx/urls.py",
+		"/E/development/isdon-react-ex/reactEx/jobs/urls.py",
+		"/E/development/isdon-react-ex/reactEx/jobs/forms.py",
+		"/E/development/isdon-react-ex/env/Lib/site-packages/djangojs/templates/djangojs/init.js",
+		"/E/development/isdon-react-ex/env/Lib/site-packages/djangojs/templates/djangojs/django_js_tag.html",
+		"/E/development/isdon-react-ex/env/Lib/site-packages/djangojs/settings.py",
+		"/E/development/isdon-react-ex/reactEx/jobs/views.py",
+		"/E/development/isdon-react-ex/reactEx/accounts/views.py",
+		"/E/development/isdon-react-ex/reactEx/jobs/choices.py",
+		"/E/development/isdon-foal/display/urls.py",
+		"/E/development/isdon-foal/compressor/css/eb3d613749cd.css",
+		"/E/development/isdon-foal/display/templates/display/frm_edit_profile.html",
+		"/E/development/isdon-foal/display/templates/display/tab_monitor.html",
+		"/E/development/isdon-foal/display/templates/display/tab_setup.html",
+		"/E/development/isdon-foal/display/static/display/chart.js",
+		"/E/development/isdon-foal/DjangoWebProject/urls.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/settings.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/debug_sandbox.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/cron_mail.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/error_sfsandbox.log",
+		"/E/development/isdon-foal/logs/debug.log",
+		"/E/development/isdon-foal/accounts/forms.py",
+		"/E/development/isdon-foal/env/Lib/site-packages/userena/forms.py",
+		"/E/development/isdon-foal/.gitignore",
+		"/E/development/isdon-foal/.coveragerc",
+		"/E/development/isdon-foal/env/Lib/site-packages/django/core/mail/__init__.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/cron_mail_deferred.log",
+		"/E/development/isdon-foal/accounts/cron_mail.log",
+		"/E/development/isdon-foal/compressor/js/36e6d270ac92.js",
+		"/E/development/isdon-foal/compressor/js/910dbc4bf592.js",
+		"/E/development/isdon-foal/compressor/js/5c77f3558018.js",
+		"/E/development/isdon-foal/compressor/js/93db2af6ca68.js",
+		"/C/Users/IsDon/AppData/Roaming/npm/node_modules/yuglify/bin/yuglify",
+		"/C/Users/IsDon/AppData/Roaming/npm/node_modules/yuglify/lib/jsminify.js",
+		"/C/Users/IsDon/AppData/Roaming/npm/node_modules/yuglify/node_modules/uglify-js/uglify-js.js",
+		"/C/Users/IsDon/AppData/Roaming/npm/node_modules/yuglify/node_modules/uglify-js/bin/uglifyjs",
+		"/E/development/isdon-foal/compressor/js/eb1b33ee9bed.js",
+		"/C/Users/IsDon/AppData/Roaming/npm/node_modules/uglifyjs/bin/uglifyjs",
+		"/C/Users/IsDon/AppData/Roaming/npm/node_modules/yuglify/lib/index.js",
+		"/C/Users/IsDon/AppData/Roaming/npm/node_modules/yuglify/node_modules/uglify-js/README.html",
+		"/E/development/isdon-foal/compressor/js/86025b9eb8d8.js",
+		"/E/development/isdon-foal/compressor/js/424104b7ce4e.js",
+		"/E/development/isdon-foal/cron_mail.log",
+		"/E/development/django-mailer-master/.travis.yml",
+		"/E/development/django-mailer-master/docs/usage.rst",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/archiveuploads.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/archiveuploads_sandbox.log",
+		"/E/development/isdon-foal/env/Lib/site-packages/userena/mail.py",
+		"/E/development/isdon-foal/display/widgets.py",
+		"/E/development/isdon-foal/env/Lib/site-packages/django/forms/widgets.py",
+		"/E/development/isdon-foal/env/Lib/site-packages/userena/models.py",
+		"/E/development/isdon-foal/display/templates/display/frm_add_rec.html",
+		"/E/development/isdon-foal/display/templates/display/home_template.html",
+		"/E/development/isdon-foal/display/templates/display/frm_edit_horsefrontend.html",
+		"/E/development/isdon-foal/DjangoWebProject/settings.py",
+		"/E/development/isdon-foal/display/static/display/style.css",
+		"/E/development/isdon-foal/display/static/display/badge.js",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/error_sfsandbox.log.1",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/debug_production.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/archiveuploads_sandbox.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/archiveuploads.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/settings 2.py",
+		"/E/development/isdon-foal/compressor/manifest.json",
+		"/E/development/isdon-foal/env/Lib/site-packages/django/contrib/staticfiles/urls.py",
+		"/E/development/isdon-foal/static/cache/css/55d66335bccc.css",
+		"/E/development/isdon-foal/static/cache/js/291be35ec12e.js",
+		"/E/development/isdon-foal/requirements.txt",
+		"/E/development/isdon-foal/.coverage",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/archiveuploads 2.py",
+		"/E/development/isdon-foal/display/management/commands/unarchive.py",
+		"/E/development/isdon-foal/display/management/commands/archiveuploads.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/archiveuploads.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/debug_production.log",
+		"/E/development/isdon-foal/display/static/display/batt.js",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/worker 2.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/worker.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/models.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/models 2.py",
+		"/E/development/isdon-foal/display/models.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/restart",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/error_sfsandbox 2.log",
+		"/C/Users/IsDon/Desktop/worker.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/urls.py",
+		"/E/development/isdon-foal/upload-tester-sandbox.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/error_sfbackend.log",
+		"/E/development/isdon-foal/display/worker_.pybak.py",
+		"/E/development/isdon-foal/display/static/display/notification.js",
+		"/E/development/isdon-foal/env/Lib/site-packages/psycopg2/psycopg1.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/urls 2.py",
+		"/E/development/isdon-foal/mem.py",
+		"/E/development/isdon-foal/display/admin.py",
+		"/E/development/isdon-foal/display/management/archiveuploads.py",
+		"/E/development/isdon-foal/DjangoWebProject/management/archiveuploads.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/slow_queries_production.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/views 2.py",
+		"/E/development/isdon-foal/env/Lib/site-packages/django/shortcuts.py",
+		"/E/development/isdon-foal/env/Lib/site-packages/django/contrib/admin/options.py",
+		"/E/development/isdon-foal/env/Lib/site-packages/django/views/decorators/vary.py",
+		"/E/development/isdon-foal_prod/slow_queries_production.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/views.py",
+		"/E/development/isdon-foal/display/templates/display/list_trans.html",
+		"/E/development/isdon-foal/display/templates/display/list_rec.html",
+		"/E/development/isdon-foal/display/worker.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/.htaccess 2",
+		"/E/development/isdon-foal/DjangoWebProject/middleware/LongQueryLogMiddleware.py",
+		"/E/development/isdon-foal/logs/slow_queries_test.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/config.inc.php",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-2/LongQueryLogMiddleware.py",
+		"/E/development/isdon-foal/upload-tester.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/views.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/settings.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/worker.py",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/error_sfsandbox.log",
+		"/C/Users/IsDon/AppData/Local/Temp/fz3temp-3/models.py",
+		"/E/development/isdon-foal/logs/django.log",
+		"/E/development/isdon-foal_prod/compare/sfsandbox/sfbackend/DjangoWebProject/settings.py",
+		"/E/development/isdon-foal_prod/compare/sfsandbox/sfbackend/DjangoWebProject/middleware/LongQueryLogMiddleware.py",
+		"/E/development/isdon-foal_prod/compare/sfbackend/sfbackend/DjangoWebProject/settings.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\development\\isdon-foal\\display\\templates\\display",
+			"<open files>",
+			"E:\\development\\py_foal\\display,E:\\development\\py_foal\\accounts,E:\\development\\py_foal\\DjangoWebProject",
+			"<open folders>",
+			"E:\\development\\py_foal\\display\\static\\display",
+			"E:\\development\\py_foal",
+			"E:\\development\\py_foal\\env\\Lib\\site-packages\\django",
+			"E:\\development\\py_foal",
+			"E:\\IsDon\\Documents\\ACTIVE\\ABC\\Jobs2016\\Election NT\\Flash\\BoF\\DataNSW",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"console.log",
+			"display",
+			"pk",
+			"key",
+			"FormAddItem",
+			"ItemNodes",
+			"FormAddItem",
+			"uri[0]",
+			"removeItem",
+			"addItem",
+			"removeJob",
+			"Shift",
+			"sites",
+			"DeviceGlobals",
+			"UserRightsSupport",
+			"permissions",
+			"series_sleep",
+			"checkSounds",
+			"sleep",
+			"red",
+			"@",
+			"red",
+			"muteAllSounds",
+			"cache",
+			"write_cache",
+			"ld_detected_1",
+			"ld_detected_2",
+			"al_dur",
+			"cache",
+			"console",
+			"dead_code",
+			"jsmin",
+			"ToggleCheckboxField",
+			"form_settings",
+			"/development/isdon-foal",
+			"{{",
+			"        # self.stdout.write(self.style.SUCCESS('Run fn'))\n        # return",
+			"check_chartnum",
+			"all",
+			"setChartZoom",
+			"cur_last_ts",
+			"get_or_create",
+			"getActivities",
+			"print",
+			"static",
+			"show_chart",
+			"series_list",
+			"invalidate_home_cached()",
+			"cache.delete",
+			"ALLOW_ASYNC_DISABLING_SILK",
+			"DISABLE_SILK",
+			"cache",
+			"datetime",
+			"activity",
+			"print(",
+			"np",
+			"display_summary",
+			"replaceWith",
+			"Receiver Serial #: ",
+			"↵",
+			"/upload/",
+			"print",
+			"red",
+			"session",
+			"40",
+			"remove",
+			"list_tr",
+			"button",
+			"toggleView",
+			"empty",
+			"ul.popup-messages-content",
+			":after",
+			"^='",
+			"label",
+			"process_notifications",
+			"send_sms",
+			",[",
+			"POST /upload/ HTTP/1.1\" 500",
+			"upload",
+			"403",
+			"HorseFrontendForm",
+			"500",
+			"csrf",
+			"403",
+			"\n\t\t<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css\" integrity=\"sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==\" crossorigin=\"anonymous\">",
+			"\n\t\tconsole.log($('[id^=cmn-toggle-on-0-][data-chart=' + badge_num + ']'));",
+			"reflow",
+			"redraw",
+			"series.data",
+			"addPoint",
+			"testArray",
+			"series_sleep",
+			"):\n",
+			"prev_ts",
+			"series",
+			"question",
+			"series_obj",
+			"series_deviceData",
+			"series_appendNewData",
+			"series_obj",
+			"check_chartnum",
+			"chart_doJSON",
+			"250px",
+			"sidebar-wrapper",
+			"#sidebar-wrapper",
+			"#wrapper",
+			"#page-content-wrapper",
+			"ManagementForm",
+			"vDate",
+			"upload",
+			"frm_add_trans",
+			"Device",
+			"summarize",
+			"device_id",
+			"500",
+			"Device.objects",
+			"dev.device.pk",
+			"dev.device",
+			"dev.device.device_id",
+			"dev.device.id",
+			"dev.id",
+			"render_to_string",
+			"print",
+			"sqca.com.au",
+			"sqca.",
+			")\n",
+			"'),\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"JobsAppContainer",
+			"pk",
+			"WorkShift",
+			"alert-red",
+			"ld_detected",
+			"ld2_detected",
+			"ld2_dur",
+			"invalidate_home_cached(request)",
+			"#print(",
+			"#print(\n",
+			"\n",
+			"\n\t\t\t\t\tif(!this.$zoom_2m) {\n\t\t\t\t\t\tthis.$zoom_2m = $('<button>2m</button>')\n\t\t\t\t\t\t\t.css({\n\t\t\t\t\t\t\t\tposition: 'absolute',\n\t\t\t\t\t\t\t\ttop: '40px',\n\t\t\t\t\t\t\t\tright: '10px',\n\t\t\t\t\t\t\t\tzIndex: 50\n\t\t\t\t\t\t\t})\n\t\t\t\t\t\t\t.click(function(e) {\n\t\t\t\t\t\t\t\te.preventDefault();\n\t\t\t\t\t\t\t\ttoggleView(this);\n\t\t\t\t\t\t\t})\n\t\t\t\t\t\t\t.appendTo(this.container);\n\t\t\t\t\t}",
+			"\n,[",
+			"label",
+			"\n</",
+			"210px",
+			"leftpanel",
+			".sidebar-wrapper",
+			"#deviceTabContent",
+			".device-wrapper",
+			"display_device",
+			"dev.device_id",
+			"dev.device.pk",
+			"dev.device",
+			"dev.device.device_id",
+			"dev.device.id",
+			"newDataPoint",
+			"datetime.datetime.",
+			"datetime.now(timezone.utc)",
+			"sevenlit_",
+			"",
+			"\n        <Page Hint=\"Blank\">Blank</Page>\n        <Page Hint=\"Headshots\">Headshots</Page>",
+			"\n        <Page Hint=\"Headshots\">Headshots</Page>\n        <Page Hint=\"Candi Bars\">Candi Bars</Page>",
+			"",
+			"15em",
+			" #549aca; /*#3399CC;*/",
+			"<p><span>",
+			"</span></p>",
+			"</span></h4>",
+			"<h4><span>",
+			"0",
+			".85",
+			"setupForm1",
+			"$1misc.dosearch",
+			"\\1misc.dosearch",
+			"\\smisc.dosearch",
+			"misc.dosearch",
+			"host.langs",
+			"misc.sendajax",
+			"misc.dosearch_php",
+			"misc.newsearch",
+			"misc.MSGer",
+			"misc.OPTIONer",
+			"misc.setOptions",
+			"misc.results1",
+			"\"/",
+			"//",
+			"580px",
+			"Urban Chef",
+			" //console.log(",
+			"doNav(",
+			"/",
+			"doNav(",
+			"#!/",
+			"error2.png",
+			".mealSlider:visible",
+			".mealSlider",
+			"pager.navigate(pager.Href.hash + '",
+			"page-href:'../../",
+			"location.href=\"#!/",
+			"page-href:'/",
+			"page-href:'./",
+			"page-href:'results/viewmeals'",
+			"page-href:'aboutus'",
+			"page-href:'contact'",
+			"page-href:'login_full'",
+			"page-href:'signup'",
+			"page-href:'results/viewhosts'",
+			"href=\"#\"",
+			"page-href:'profile/host_details'",
+			"page-href:'start'",
+			"page-href:'profile/calendar'",
+			"page-href:'profile/messages'",
+			"a data-bind=\"page-href:",
+			"a data-bind=\"href:",
+			"720",
+			"1280",
+			"mealID",
+			"newbook",
+			"newbook().mealIDc",
+			"newbook().meal_ID"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/development/isdon-react-ex/reactEx/reactEx/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/development/isdon-react-ex/reactEx/accounts/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/development/isdon-react-ex/reactEx/jobs/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/development/isdon-react-ex/reactEx/jobs/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								610,
+								610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/development/isdon-react-ex/reactEx/jobs/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/development/isdon-react-ex/reactEx/jobs/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/development/isdon-react-ex/reactEx/reactEx/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/E/development/isdon-react-ex/reactEx/jobs/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "/E/development/isdon-react-ex/reactEx/jobs/tests.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								550
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/E/development/isdon-react-ex/reactEx/reactEx/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4431,
+								4432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1699.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/E/development/isdon-react-ex/reactEx/assets/js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5773,
+								5773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3220.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/E/development/isdon-react-ex/reactEx/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/E/development/isdon-react-ex/reactEx/jobs/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/E/development/isdon-react-ex/reactEx/assets/css/lists.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1525,
+								1525
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/E/development/isdon-react-ex/reactEx/reactEx/templates/reactEx/front.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1130,
+								1146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/E/development/isdon-react-ex/reactEx/reactEx/templates/reactEx/dayview.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reactEx_project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\development\\isdon-react-ex\\reactEx_project.sublime-project"
+			]
+		],
+		"width": 616.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
