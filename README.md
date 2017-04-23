@@ -10,8 +10,10 @@ This is a simple first pass at a shopping list (from given json resource) which 
 3. in \reactEx project folder:
 4. npm install		(install npm packages from package.json)
 5. pip install -r requirements.txt  (install pypi packages)
-6. python manage.py migrate
-7. python mange.py createsuperuser
+6. replace django.js package url with file contents 'djangojs.replacement.urls.py'
+7. python manage.py migrate
+8. python mange.py createsuperuser
+9. add host url to ALLOWED_HOSTS
 8. python manage.py runserver
 
 ## Usage
