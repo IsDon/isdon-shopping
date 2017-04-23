@@ -5,12 +5,12 @@ This is a simple first pass at a shopping list (from given json resource) which 
 
 ## Installation
 
-setup files in a directory
-establish virtual environment <virtualenv> from parent folder recommended
-in reactEx project folder:
-npm install		(install npm packages from package.json)
-pip install -r requirements.txt  (install pypi packages)
-npm run server (runs 'python manage.py runserver')
+1. setup files in a directory
+2. establish virtual environment <virtualenv> from parent folder recommended
+3. in reactEx project folder:
+4. npm install		(install npm packages from package.json)
+5. pip install -r requirements.txt  (install pypi packages)
+6. python manage.py runserver
 
 ## Usage
 
